@@ -25,12 +25,7 @@ export const MAC_ICONS = {
   textEdit: macIcon("utils", "textedit.png"),
   terminal: macIcon("utils", "terminal.png"),
   preview: macIcon("utils", "preview.png"),
-  siri: macIcon("icons", "siri.png"),
   internalDrive: macIcon("drives", "internal.png"),
-  externalDrive: macIcon("drives", "external.png"),
-  removableDrive: macIcon("drives", "removable.png"),
-  backupDrive: macIcon("drives", "backup.png"),
-  networkDrive: macIcon("drives", "network (not drive).png"),
   appStub: macIcon("other", "automator application stub.png"),
 }
 
